@@ -32,9 +32,10 @@ python3 gen_sa_accounts.py --download-keys သင့်project name
 ```
 
 **** ရလာတဲ့  account folders ထဲမှာ json ဖိုင်တွေရှိပါတယ်။ အဲ့ဒါကို emails ထုတ်ဖို့က 
-
+၆
 ```
-python3 emails.py
+Shell cd accounts ဆိုပြီးနှိပ်ရပါမယ် အဲ shell ထဲမှာ 
+  python3 emails.py ကိုထည့်ပေးရမယ်
 ```
 ## 📙 ပြီးလျှင် repo တခုလုံးကို Download ပါ။ Download မလုပ်မီ ​အောက်ကပြထားသာဖိုင်များကို MainData ထဲ အရင်ထည့်ပါ
 1. accounts folder (contain 100 jsons) 
